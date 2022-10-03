@@ -33,7 +33,8 @@
 			"Starts with [Secrets of the Past]",
 			"[-15]% [Science] [in all cities] <before discovering [Education]>",
 			"[-10]% [Production] [in all cities] <before discovering [Education]>",
-			"Cannot build [Enslaved] units]",
+			"Cannot build [ Enslaved ] units]",          
+  // Fake uniques to help understand the nation
 		],
 		"cities": [
 			"Unión",
