@@ -1,34 +1,21 @@
 [
   {
-		"name": "Mechanized Core",
-		"isNationalWonder": true,
-    "replaces": "Bomb Shelter",
-    "uniqueTo": "The Mechanized",
-		"production": 5,
-		"cityHealth": 400,
-		"science": 4,
-		"gold": 2,
-		"cost": 1,
-		"uniques": ["Indicates the capital city"]
-	},
-  {
-		"name": "Solar Power AI",
+		"name": "Monument to the great unification",
 		"isWonder": true,
-		"uniqueTo": "The Mechanized",
+		"uniqueTo": "Nuevo paraíso",
 		"happiness": 5,
 		"cost": 1,
 		"uniques": [
-			"Provides [8] [Power]",
-			"Free [Gunner Drone] appears",
-			"Free [Guided Missile] appears",
+			"Production" : 2,
+                        "Faith" : 1,
+			"Free [Llanero] appears",
+			"Gain a free [Shrine] [in this city]",
 			"Can only be built [in capital]",
-			"[+1] population [in this city]",
-			"Gain a free [Life Creation Lab] [in this city]"
+			"[in this city]"
 		],
-		"quote": "If an Artificial Intelligence could bring as through the fallout of a contaminated desert, they can surely lead us on our way to make to wasteland usable again.",
-		"civilopediaText": [
+		"quote": "Placeholder": [
 			{
-				"text": "If an Artificial Intelligence could bring as through the fallout of a contaminated desert, they can surely lead us on our way to make to wasteland usable again.",
+				"text": "Placeholder.",
 			},
 		]
 	},
