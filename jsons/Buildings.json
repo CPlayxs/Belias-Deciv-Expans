@@ -8,10 +8,9 @@
 		"uniques": [
 			"Production" : 2,
                         "Faith" : 1,
-			"Free [Llanero] appears",
+			"Free [worker] appears",
 			"Gain a free [Shrine] [in this city]",
-			"Can only be built [in capital]",
-			"[in this city]"
+			"Can only be built [in capital]"
 		],
 		"quote": "Placeholder": [
 			{
