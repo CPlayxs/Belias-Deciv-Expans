@@ -22,18 +22,11 @@
 		"style": "Paradisíaco",
 		"uniqueName": "Placeholder",
 		"uniques": [
-			"Cannot grow cities naturally with Food",
-			"Can artificially create people with unique buildings",
-			"[Personnel] units gain the [Gas Mask] promotion",
-			"[Personnel] units gain the [Automated] promotion",
-			"Cannot build [Low Tech] units",
-			"Starts with [Construction]",
-			"Starts with [Biology]",
-			"Starts with [Electronics]",
+			"[-50%] of unhappiness from [Population]",
+			"[+1 of Happiness] [in all cities] <after discovering [Radio]",
 			"Starts with [Secrets of the Past]",
-			"[-15]% [Science] [in all cities] <before discovering [Education]>",
-			"[-10]% [Production] [in all cities] <before discovering [Education]>",
-			"Cannot build [ Enslaved ] units]",          
+			"[-2 of Happiness] [in all cities] <before discovering [Radio]>",
+			"Cannot build [Enslaved] units",          
   // Fake uniques to help understand the nation
 		],
 		"cities": [
