@@ -33,7 +33,7 @@
 			"Starts with [Secrets of the past]",
 			"[-15]% [Science] [in all cities] <before discovering [Education]>",
 			"[-10]% [Production] [in all cities] <before discovering [Education]>",
-			"Nullifies Growth [in all cities]",
+			"Cannot build [Enslaved] units]",
 		],
 		"cities": [
 			"Unión",
