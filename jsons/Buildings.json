@@ -12,7 +12,8 @@
 			"Gain a free [Shrine] [in this city]",
 			"Can only be built [in capital]"
 		],
-		"quote": "Placeholder": [
+		"quote": "Placeholder",
+	  	"civilopediaText": [
 			{
 				"text": "Placeholder.",
 			},
@@ -28,14 +29,11 @@
 			"[+3] population [in this city]",
 		]
 	},
-	//[in all cities]
-	//[in this city]
-	//"[+1] population [cityFilter]",
   	{
 		"name": "Artificial Feedery",
     		"replaces": "Ranch",
     		"uniqueTo": "The Mechanized",
-		"requiredNearbyImprovedResources": ["Cattle", "Goats", "Insects"]
+		"requiredNearbyImprovedResources": ["Cattle", "Goats", "Insects"],
 		"food": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -50,7 +48,7 @@
 	{
 		"name": "Camp  Of Creation",
     		"uniqueTo": "The Mechanized",
-		"requiredNearbyImprovedResources": ["Deer", "Hogs", "Furs"]
+		"requiredNearbyImprovedResources": ["Deer", "Hogs", "Furs"],
 		"food": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -66,7 +64,7 @@
 	{
 		"name": "Salvage Ocean Food",
     		"uniqueTo": "The Mechanized",
-		"requiredNearbyImprovedResources": ["Plankton", "Jellyfish", "Algae"]
+		"requiredNearbyImprovedResources": ["Plankton", "Jellyfish", "Algae"],
 		"food": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -84,7 +82,7 @@
 		"replaces": "Greenhouse",
     		"uniqueTo": "The Mechanized",
 		"food": 4,
-		"requiredNearbyImprovedResources": ["Tubers", "Grain", "Fungus"]
+		"requiredNearbyImprovedResources": ["Tubers", "Grain", "Fungus"],
 		"uniques": [
 			"[+2] population [in this city]",
 			"Only available <in cities with a [Life Creation Lab]>",
