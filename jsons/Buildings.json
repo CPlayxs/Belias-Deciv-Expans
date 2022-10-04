@@ -3,9 +3,9 @@
 		"name": "Monument to the great unification",
 		"isWonder": true,
 		"uniqueTo": "Nuevo paraíso",
-		"Culture": 1,
-                "Production": 2,
-                "Faith": 1,
+		"culture": 1,
+                "production": 2,
+                "faith": 1,
 		"cost": 1,
 		"uniques": [
 			"Free [worker] appears",
