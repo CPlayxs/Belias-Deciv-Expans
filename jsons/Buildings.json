@@ -3,11 +3,11 @@
 		"name": "Monument to the great unification",
 		"isWonder": true,
 		"uniqueTo": "Nuevo paraíso",
-		"happiness": 5,
+		"Culture": 1,
+                "Production": 2,
+                "Faith": 1,
 		"cost": 1,
 		"uniques": [
-			"Production" : 2,
-                        "Faith" : 1,
 			"Free [worker] appears",
 			"Gain a free [Shrine] [in this city]",
 			"Can only be built [in capital]"
