@@ -22,7 +22,7 @@
 		"style": "Paradisíaco",
 		"uniqueName": "Placeholder",
 		"uniques": [
-			"[-50%] Unhappiness from [Population]",
+			"[-50%] [Unhappiness] from [Population]",
 			"[+1 happiness] [in all cities] <after discovering [Radio]>",
 			"Starts with [Secrets of the Past]",
 			"[+2 Unhappiness] [in all cities] <before discovering [Radio]>",
